@@ -4,12 +4,12 @@
 
 ## 📚 资源列表
 
-| 类别       | 描述         | 下载链接                  |
+| 类别       | 描述         | 资源链接                  |
 |------------|--------------|--------------------------|
-| **DIYP**   | TXT源 | [https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/diyp.txt]         |
-| **M3U8**   | M3U源   | [https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/list.txt]         |
-| **LIVE**   | LIVE源       | [https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/live.txt]         |
-| **EPG**    | ERW镜像     | [https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz]        |
+| **DIYP**   | TXT源 | https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/diyp.txt         |
+| **M3U8**   | M3U源   | https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/list.txt         |
+| **LIVE**   | LIVE源       | https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/live.txt         |
+| **EPG**    | ERW镜像     | https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz        |
 
 ---
 
