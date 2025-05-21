@@ -8,7 +8,7 @@
 
 ## 📚 资源列表
 
-| 类别       | 描述         | 下载链接                  |
+| 类别       | 描述         | 复制链接                  |
 |------------|--------------|--------------------------|
 | **DIYP**   | 影音播放列表 | [https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/diyp.txt]         |
 | **M3U8**   | 流媒体列表   | [https://gh.llkk.cc/https://raw.githubusercontent.com/Jztsctl/ott/refs/heads/main/list.txt]         |
