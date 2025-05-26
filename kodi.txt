@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1 ,倩女幽魂
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,倩女幽魂-2-人间道
+http://hwottcdn.ln.chinamobile.com/88888892/16/20241014/280214957/index.m3u8
+#EXTINF:-1 ,倩女幽魂-3-道道道
+http://hwottcdn.ln.chinamobile.com/88888892/16/20240920/280091170/index.m3u8
+#EXTINF:-1 ,奔跑吧第十三季
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,奔跑吧-1-250421
+http://hwottcdn.ln.chinamobile.com/36/16/20250422/281314337/index.m3u8
+#EXTINF:-1 ,奔跑吧-2-250425
+http://hwottcdn.ln.chinamobile.com/36/16/20250426/281339375/index.m3u8
+#EXTINF:-1 ,奔跑吧-3-250502
+http://hwottcdn.ln.chinamobile.com/36/16/20250503/281374869/index.m3u8
+#EXTINF:-1 ,奔跑吧-4-250509
+http://hwottcdn.ln.chinamobile.com/36/16/20250510/281405514/index.m3u8
+#EXTINF:-1 ,奔跑吧-5-250516
+http://hwottcdn.ln.chinamobile.com/36/16/20250517/281449080/index.m3u8
+#EXTINF:-1 ,奔跑吧-6-250523
+http://hwottcdn.ln.chinamobile.com/36/16/20250524/281496750/index.m3u8
+#EXTINF:-1 ,歌手2025
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,歌手2025-1
+http://hwottcdn.ln.chinamobile.com/67/16/20250517/281450227/index.m3u8
+#EXTINF:-1 ,歌手2025-2
+http://hwottcdn.ln.chinamobile.com/67/16/20250523/281498188/index.m3u8
+#EXTINF:-1 ,天赐的声音第六季
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,天赐的声音-1
+http://hwottcdn.ln.chinamobile.com/36/16/20250419/281300529/index.m3u8
+#EXTINF:-1 ,天赐的声音-2
+http://hwottcdn.ln.chinamobile.com/36/16/20250426/281345179/index.m3u8
+#EXTINF:-1 ,天赐的声音-3
+http://hwottcdn.ln.chinamobile.com/36/16/20250503/281374866/index.m3u8
+#EXTINF:-1 ,天赐的声音-4
+http://hwottcdn.ln.chinamobile.com/36/16/20250510/281405511/index.m3u8
+#EXTINF:-1 ,天赐的声音-5
+http://hwottcdn.ln.chinamobile.com/36/16/20250517/281446118/index.m3u8
+#EXTINF:-1 ,天赐的声音-6
+http://hwottcdn.ln.chinamobile.com/36/16/20250524/281500009/index.m3u8
+#EXTINF:-1 ,哈哈哈哈哈第五季
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,五哈-1上
+http://hwottcdn.ln.chinamobile.com/34/16/20250412/281254007/index.m3u8
+#EXTINF:-1 ,五哈-1下
+http://hwottcdn.ln.chinamobile.com/34/16/20250413/281261668/index.m3u8
+#EXTINF:-1 ,五哈-2上
+http://hwottcdn.ln.chinamobile.com/34/16/20250419/281300430/index.m3u8
+#EXTINF:-1 ,五哈-2下
+http://hwottcdn.ln.chinamobile.com/34/16/20250420/281305795/index.m3u8
+#EXTINF:-1 ,五哈-3上
+http://hwottcdn.ln.chinamobile.com/34/16/20250426/281345941/index.m3u8
+#EXTINF:-1 ,五哈-3下
+http://hwottcdn.ln.chinamobile.com/34/16/20250427/281349367/index.m3u8
+#EXTINF:-1 ,五哈-4上
+http://hwottcdn.ln.chinamobile.com/34/16/20250503/281375193/index.m3u8
+#EXTINF:-1 ,五哈-4下
+http://hwottcdn.ln.chinamobile.com/34/16/20250504/281379904/index.m3u8
+#EXTINF:-1 ,五哈-5上
+http://hwottcdn.ln.chinamobile.com/34/16/20250510/281405766/index.m3u8
+#EXTINF:-1 ,五哈-5下
+http://hwottcdn.ln.chinamobile.com/34/16/20250511/281404550/index.m3u8
+#EXTINF:-1 ,五哈-6上
+http://hwottcdn.ln.chinamobile.com/34/16/20250517/281445944/index.m3u8
+#EXTINF:-1 ,五哈-6下
+http://hwottcdn.ln.chinamobile.com/34/16/20250518/281453878/index.m3u8
+#EXTINF:-1 ,五哈-7上
+http://hwottcdn.ln.chinamobile.com/34/16/20250524/281493803/index.m3u8
+#EXTINF:-1 ,五哈-7下
+http://hwottcdn.ln.chinamobile.com/34/16/20250525/281499102/index.m3u8
+#EXTINF:-1 ,遮天
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,遮天-91
+http://hwottcdn.ln.chinamobile.com/34/16/20250108/280707371/index.m3u8
+#EXTINF:-1 ,遮天-92
+http://hwottcdn.ln.chinamobile.com/34/16/20250115/280754299/index.m3u8
+#EXTINF:-1 ,遮天-93
+http://hwottcdn.ln.chinamobile.com/34/16/20250122/280787624/index.m3u8
+#EXTINF:-1 ,遮天-94
+http://hwottcdn.ln.chinamobile.com/34/16/20250129/280819039/index.m3u8
+#EXTINF:-1 ,遮天-95
+http://hwottcdn.ln.chinamobile.com/34/16/20250205/280827033/index.m3u8
+#EXTINF:-1 ,遮天-96
+http://hwottcdn.ln.chinamobile.com/34/16/20250212/280870078/index.m3u8
+#EXTINF:-1 ,遮天-97
+http://hwottcdn.ln.chinamobile.com/34/16/20250219/280911568/index.m3u8
+#EXTINF:-1 ,遮天-98
+http://hwottcdn.ln.chinamobile.com/34/16/20250226/280953752/index.m3u8
+#EXTINF:-1 ,遮天-99
+http://hwottcdn.ln.chinamobile.com/34/16/20250305/281005879/index.m3u8
+#EXTINF:-1 ,遮天-100
+http://hwottcdn.ln.chinamobile.com/34/16/20250312/281044997/index.m3u8
+#EXTINF:-1 ,遮天-101
+http://hwottcdn.ln.chinamobile.com/34/16/20250319/281089913/index.m3u8
+#EXTINF:-1 ,遮天-102
+http://hwottcdn.ln.chinamobile.com/34/16/20250326/281144608/index.m3u8
+#EXTINF:-1 ,遮天-103
+http://hwottcdn.ln.chinamobile.com/34/16/20250402/281184522/index.m3u8
+#EXTINF:-1 ,遮天-104
+http://hwottcdn.ln.chinamobile.com/34/16/20250409/281231743/index.m3u8
+#EXTINF:-1 ,遮天-105
+http://hwottcdn.ln.chinamobile.com/34/16/20250416/281280607/index.m3u8
+#EXTINF:-1 ,遮天-106
+http://hwottcdn.ln.chinamobile.com/34/16/20250423/281321673/index.m3u8
+#EXTINF:-1 ,遮天-107
+http://hwottcdn.ln.chinamobile.com/34/16/20250430/281367829/index.m3u8
+#EXTINF:-1 ,遮天-108
+http://hwottcdn.ln.chinamobile.com/34/16/20250507/281390953/index.m3u8
+#EXTINF:-1 ,遮天-109
+http://hwottcdn.ln.chinamobile.com/34/16/20250514/281428849/index.m3u8
+#EXTINF:-1 ,遮天-110
+http://hwottcdn.ln.chinamobile.com/34/16/20250521/281475529/index.m3u8
+#EXTINF:-1 ,仙逆
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,仙逆-61
+http://hwottcdn.ln.chinamobile.com/34/16/20241104/280353223/index.m3u8
+#EXTINF:-1 ,仙逆-62
+http://hwottcdn.ln.chinamobile.com/34/16/20241111/280388399/index.m3u8
+#EXTINF:-1 ,仙逆-63
+http://hwottcdn.ln.chinamobile.com/34/16/20241118/280433631/index.m3u8
+#EXTINF:-1 ,仙逆-64
+http://hwottcdn.ln.chinamobile.com/34/16/20241125/280470218/index.m3u8
+#EXTINF:-1 ,仙逆-65
+http://hwottcdn.ln.chinamobile.com/34/16/20241202/280522671/index.m3u8
+#EXTINF:-1 ,仙逆-66
+http://hwottcdn.ln.chinamobile.com/34/16/20241209/280556148/index.m3u8
+#EXTINF:-1 ,仙逆-67
+http://hwottcdn.ln.chinamobile.com/34/16/20241216/280595589/index.m3u8
+#EXTINF:-1 ,仙逆-68
+http://hwottcdn.ln.chinamobile.com/34/16/20241223/280638335/index.m3u8
+#EXTINF:-1 ,仙逆-69
+http://hwottcdn.ln.chinamobile.com/34/16/20241230/280662764/index.m3u8
+#EXTINF:-1 ,仙逆-70
+http://hwottcdn.ln.chinamobile.com/34/16/20250106/280697466/index.m3u8
+#EXTINF:-1 ,仙逆-71
+http://hwottcdn.ln.chinamobile.com/34/16/20250113/280741483/index.m3u8
+#EXTINF:-1 ,仙逆-72
+http://hwottcdn.ln.chinamobile.com/34/16/20250120/280780888/index.m3u8
+#EXTINF:-1 ,仙逆-73
+http://hwottcdn.ln.chinamobile.com/34/16/20250127/280810304/index.m3u8
+#EXTINF:-1 ,仙逆-74
+http://hwottcdn.ln.chinamobile.com/34/16/20250203/280823661/index.m3u8
+#EXTINF:-1 ,仙逆-75
+http://hwottcdn.ln.chinamobile.com/34/16/20250210/280853433/index.m3u8
+#EXTINF:-1 ,仙逆-76
+http://hwottcdn.ln.chinamobile.com/34/16/20250217/280894577/index.m3u8
+#EXTINF:-1 ,仙逆-77
+http://hwottcdn.ln.chinamobile.com/34/16/20250224/280946782/index.m3u8
+#EXTINF:-1 ,仙逆-78
+http://hwottcdn.ln.chinamobile.com/34/16/20250303/280985853/index.m3u8
+#EXTINF:-1 ,仙逆-79
+http://hwottcdn.ln.chinamobile.com/34/16/20250310/281028434/index.m3u8
+#EXTINF:-1 ,仙逆-80
+http://hwottcdn.ln.chinamobile.com/34/16/20250317/281074509/index.m3u8
+#EXTINF:-1 ,仙逆-81
+http://hwottcdn.ln.chinamobile.com/34/16/20250324/281124225/index.m3u8
+#EXTINF:-1 ,仙逆-82
+http://hwottcdn.ln.chinamobile.com/34/16/20250331/281167397/index.m3u8
+#EXTINF:-1 ,仙逆-83
+http://hwottcdn.ln.chinamobile.com/34/16/20250407/281207894/index.m3u8
+#EXTINF:-1 ,仙逆-84
+http://hwottcdn.ln.chinamobile.com/34/16/20250414/281258654/index.m3u8
+#EXTINF:-1 ,仙逆-85
+http://hwottcdn.ln.chinamobile.com/34/16/20250421/281310178/index.m3u8
+#EXTINF:-1 ,仙逆-86
+http://hwottcdn.ln.chinamobile.com/34/16/20250428/281351817/index.m3u8
+#EXTINF:-1 ,仙逆-87
+http://hwottcdn.ln.chinamobile.com/34/16/20250505/281381593/index.m3u8
+#EXTINF:-1 ,仙逆-88
+http://hwottcdn.ln.chinamobile.com/34/16/20250512/281409663/index.m3u8
+#EXTINF:-1 ,仙逆-89
+http://hwottcdn.ln.chinamobile.com/34/16/20250519/281456773/index.m3u8.
+#EXTINF:-1 ,灵笼
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,灵笼-1
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277409266/index.m3u8
+#EXTINF:-1 ,灵笼-2
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277405181/index.m3u8
+#EXTINF:-1 ,灵笼-3
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277409269/index.m3u8
+#EXTINF:-1 ,灵笼-4
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406865/index.m3u8
+#EXTINF:-1 ,灵笼-5
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277405196/index.m3u8
+#EXTINF:-1 ,灵笼-6
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277405214/index.m3u8
+#EXTINF:-1 ,灵笼-7
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406838/index.m3u8
+#EXTINF:-1 ,灵笼-8
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406871/index.m3u8
+#EXTINF:-1 ,灵笼-9
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277405172/index.m3u8
+#EXTINF:-1 ,灵笼-10
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277405208/index.m3u8
+#EXTINF:-1 ,灵笼-11
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406847/index.m3u8
+#EXTINF:-1 ,灵笼-12
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406835/index.m3u8
+#EXTINF:-1 ,灵笼-13
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277409287/index.m3u8
+#EXTINF:-1 ,灵笼-14
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406859/index.m3u8
+#EXTINF:-1 ,灵笼-15
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406853/index.m3u8
+#EXTINF:-1 ,灵笼-16
+http://hwottcdn.ln.chinamobile.com/11/16/20230310/277406856/index.m3u8
+#EXTINF:-1 ,刑警的日子
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,刑警的日子-1
+http://hwottcdn.ln.chinamobile.com/34/16/20250505/281382526/index.m3u8
+#EXTINF:-1 ,刑警的日子-2
+http://hwottcdn.ln.chinamobile.com/34/16/20250505/281379120/index.m3u8
+#EXTINF:-1 ,刑警的日子-3
+http://hwottcdn.ln.chinamobile.com/34/16/20250505/281376188/index.m3u8
+#EXTINF:-1 ,刑警的日子-4
+http://hwottcdn.ln.chinamobile.com/34/16/20250506/281382581/index.m3u8
+#EXTINF:-1 ,刑警的日子-5
+http://hwottcdn.ln.chinamobile.com/34/16/20250506/281388859/index.m3u8
+#EXTINF:-1 ,刑警的日子-6
+http://hwottcdn.ln.chinamobile.com/34/16/20250507/281390265/index.m3u8
+#EXTINF:-1 ,刑警的日子-7
+http://hwottcdn.ln.chinamobile.com/34/16/20250507/281390268/index.m3u8
+#EXTINF:-1 ,刑警的日子-8
+http://hwottcdn.ln.chinamobile.com/34/16/20250508/281397603/index.m3u8
+#EXTINF:-1 ,刑警的日子-9
+http://hwottcdn.ln.chinamobile.com/34/16/20250508/281397600/index.m3u8
+#EXTINF:-1 ,刑警的日子-10
+http://hwottcdn.ln.chinamobile.com/34/16/20250509/281407264/index.m3u8
+#EXTINF:-1 ,刑警的日子-11
+http://hwottcdn.ln.chinamobile.com/34/16/20250509/281407261/index.m3u8
+#EXTINF:-1 ,刑警的日子-12
+http://hwottcdn.ln.chinamobile.com/34/16/20250510/281409583/index.m3u8
+#EXTINF:-1 ,刑警的日子-13
+http://hwottcdn.ln.chinamobile.com/34/16/20250510/281409586/index.m3u8
+#EXTINF:-1 ,刑警的日子-14
+http://hwottcdn.ln.chinamobile.com/34/16/20250511/281408064/index.m3u8
+#EXTINF:-1 ,刑警的日子-15
+http://hwottcdn.ln.chinamobile.com/34/16/20250511/281405051/index.m3u8
+#EXTINF:-1 ,刑警的日子-16
+http://hwottcdn.ln.chinamobile.com/34/16/20250512/281411471/index.m3u8
+#EXTINF:-1 ,刑警的日子-17
+http://hwottcdn.ln.chinamobile.com/34/16/20250512/281417827/index.m3u8
+#EXTINF:-1 ,刑警的日子-18
+http://hwottcdn.ln.chinamobile.com/34/16/20250513/281426095/index.m3u8
+#EXTINF:-1 ,刑警的日子-19
+http://hwottcdn.ln.chinamobile.com/34/16/20250513/281426092/index.m3u8
+#EXTINF:-1 ,刑警的日子-20
+http://hwottcdn.ln.chinamobile.com/34/16/20250514/281434177/index.m3u8
+#EXTINF:-1 ,刑警的日子-21
+http://hwottcdn.ln.chinamobile.com/34/16/20250514/281434174/index.m3u8
+#EXTINF:-1 ,刑警的日子-22
+http://hwottcdn.ln.chinamobile.com/34/16/20250515/281436698/index.m3u8
+#EXTINF:-1 ,刑警的日子-23
+http://hwottcdn.ln.chinamobile.com/34/16/20250515/281436695/index.m3u8
+#EXTINF:-1 ,刑警的日子-24
+http://hwottcdn.ln.chinamobile.com/34/16/20250516/281443499/index.m3u8
+#EXTINF:-1 ,刑警的日子-25
+http://hwottcdn.ln.chinamobile.com/34/16/20250516/281449846/index.m3u8
+#EXTINF:-1 ,海绵宝宝第十二季
+https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+#EXTINF:-1 ,海绵宝宝-1
+http://hwottcdn.ln.chinamobile.com/11/16/20240522/279439863/index.m3u8
+#EXTINF:-1 ,海绵宝宝-2
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279441500/index.m3u8
+#EXTINF:-1 ,海绵宝宝-3
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279441503/index.m3u8
+#EXTINF:-1 ,海绵宝宝-4
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279441512/index.m3u8
+#EXTINF:-1 ,海绵宝宝-5
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279441530/index.m3u8
+#EXTINF:-1 ,海绵宝宝-6
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442845/index.m3u8
+#EXTINF:-1 ,海绵宝宝-7
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442863/index.m3u8
+#EXTINF:-1 ,海绵宝宝-8
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442914/index.m3u8
+#EXTINF:-1 ,海绵宝宝-9
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442926/index.m3u8
+#EXTINF:-1 ,海绵宝宝-10
+http://hwottcdn.ln.chinamobile.com/11/16/20240523/279445627/index.m3u8
