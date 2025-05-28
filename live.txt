@@ -160,3 +160,31 @@
 海绵宝宝-8,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442914/index.m3u8
 海绵宝宝-9,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279442926/index.m3u8
 海绵宝宝-10,http://hwottcdn.ln.chinamobile.com/11/16/20240523/279445627/index.m3u8
+
+院线电影,#genre#
+院线电影,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+不说话的爱 (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250516/281444347/index.m3u8
+超级望望‎ (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250311/281043018/index.m3u8
+第二十条‎ (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241218/280614516/index.m3u8
+碟中谍1 (1996),http://hwottcdn.ln.chinamobile.com/50/16/20211230/275984835/index.m3u8
+碟中谍2 (2000),http://hwottcdn.ln.chinamobile.com/50/16/20220721/276681059/index.m3u8
+碟中谍3 (2006),http://hwottcdn.ln.chinamobile.com/67/16/20241107/280365221/index.m3u8
+碟中谍4 (2011),http://hwottcdn.ln.chinamobile.com/50/16/20220721/276684529/index.m3u8
+碟中谍5 (2015),http://hwottcdn.ln.chinamobile.com/36/16/20230714/277932539/index.m3u8
+碟中谍6 (2018),http://hwottcdn.ln.chinamobile.com/88888892/16/20210409/274983996/index.m3u8
+碟中谍7 (2023),http://hwottcdn.ln.chinamobile.com/34/16/20240703/279620793/index.m3u8
+毒液：最后一舞(国) (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241126/280485745/index.m3u8
+毒液：最后一舞(原) (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241126/280480811/index.m3u8
+焚城 (2024),http://hwottcdn.ln.chinamobile.com/113/16/20250327/281153292/index.m3u8
+落凡尘‎ (2024),http://hwottcdn.ln.chinamobile.com/113/16/20250317/281076979/index.m3u8
+美国队长4 (2025),http://hwottcdn.ln.chinamobile.com/88888892/16/20250524/281499469/index.m3u8
+怒水西流‎ (2025),http://hwottcdn.ln.chinamobile.com/11/16/20250514/281428852/index.m3u8
+热辣滚烫‎ (2024),http://hwottcdn.ln.chinamobile.com/50/16/20240523/279442149/index.m3u8
+射雕英雄传：侠之大者‎ (2025),http://hwottcdn.ln.chinamobile.com/88888892/16/20250411/281251210/index.m3u8
+唐人街探案1‎ (2015),http://hwottcdn.ln.chinamobile.com/88888892/16/20210214/274738832/index.m3u8
+唐人街探案2 (2018),http://hwottcdn.ln.chinamobile.com/88888892/16/20250425/281337645/index.m3u8
+唐人街探案3 (2021),http://hwottcdn.ln.chinamobile.com/88888892/16/20250425/281341120/index.m3u8
+唐探1900 (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250429/281356130/index.m3u8
+危机航线‎ (2024),http://hwottcdn.ln.chinamobile.com/113/16/20241129/280510617/index.m3u8
+向阳·花 (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250523/281487066/index.m3u8
+周处除三害‎ (2023),http://hwottcdn.ln.chinamobile.com/50/16/20240523/279440750/index.m3u8
