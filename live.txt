@@ -14,11 +14,13 @@
 奔跑吧-4-250509,http://hwottcdn.ln.chinamobile.com/36/16/20250510/281405514/index.m3u8
 奔跑吧-5-250516,http://hwottcdn.ln.chinamobile.com/36/16/20250517/281449080/index.m3u8
 奔跑吧-6-250523,http://hwottcdn.ln.chinamobile.com/36/16/20250524/281496750/index.m3u8
+奔跑吧-7-250530,http://hwottcdn.ln.chinamobile.com/36/16/20250531/281535719/index.m3u8
 
 歌手2025,#genre#
 歌手2025,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
 歌手2025-1,http://hwottcdn.ln.chinamobile.com/67/16/20250517/281450227/index.m3u8
 歌手2025-2,http://hwottcdn.ln.chinamobile.com/67/16/20250523/281498188/index.m3u8
+歌手2025-3,http://hwottcdn.ln.chinamobile.com/67/16/20250530/281540209/index.m3u8
 
 天赐的声音第六季,#genre#
 天赐的声音第六季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -28,6 +30,7 @@
 天赐的声音-4,http://hwottcdn.ln.chinamobile.com/36/16/20250510/281405511/index.m3u8
 天赐的声音-5,http://hwottcdn.ln.chinamobile.com/36/16/20250517/281446118/index.m3u8
 天赐的声音-6,http://hwottcdn.ln.chinamobile.com/36/16/20250524/281500009/index.m3u8
+天赐的声音-7,http://hwottcdn.ln.chinamobile.com/36/16/20250531/281538807/index.m3u8
 
 哈哈哈哈哈第五季,#genre#
 哈哈哈哈哈第五季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -45,6 +48,18 @@
 五哈-6下,http://hwottcdn.ln.chinamobile.com/34/16/20250518/281453878/index.m3u8
 五哈-7上,http://hwottcdn.ln.chinamobile.com/34/16/20250524/281493803/index.m3u8
 五哈-7下,http://hwottcdn.ln.chinamobile.com/34/16/20250525/281499102/index.m3u8
+五哈-8上,http://hwottcdn.ln.chinamobile.com/34/16/20250531/281541967/index.m3u8
+五哈-8下,http://hwottcdn.ln.chinamobile.com/34/16/20250601/281537921/index.m3u8
+
+一见你就笑,#genre#
+一见你就笑,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+一见你就笑-1,http://hwottcdn.ln.chinamobile.com/34/16/20250418/281298778/index.m3u8
+一见你就笑-2,http://hwottcdn.ln.chinamobile.com/34/16/20250423/281328811/index.m3u8
+一见你就笑-3,http://hwottcdn.ln.chinamobile.com/34/16/20250430/281364887/index.m3u8
+一见你就笑-4,http://hwottcdn.ln.chinamobile.com/34/16/20250507/281390145/index.m3u8
+一见你就笑-5,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281430100/index.m3u8
+一见你就笑-6,http://hwottcdn.ln.chinamobile.com/34/16/20250521/281478372/index.m3u8
+一见你就笑-7,http://hwottcdn.ln.chinamobile.com/34/16/20250528/281516357/index.m3u8
 
 遮天,#genre#
 遮天,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -68,9 +83,11 @@
 遮天-108,http://hwottcdn.ln.chinamobile.com/34/16/20250507/281390953/index.m3u8
 遮天-109,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281428849/index.m3u8
 遮天-110,http://hwottcdn.ln.chinamobile.com/34/16/20250521/281475529/index.m3u8
+遮天-111,http://hwottcdn.ln.chinamobile.com/34/16/20250528/281516602/index.m3u8
 
 仙逆,#genre#
 仙逆,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+仙逆剧场版-神临之战,http://hwottcdn.ln.chinamobile.com/34/16/20250530/281534000/index.m3u8
 仙逆-61,http://hwottcdn.ln.chinamobile.com/34/16/20241104/280353223/index.m3u8
 仙逆-62,http://hwottcdn.ln.chinamobile.com/34/16/20241111/280388399/index.m3u8
 仙逆-63,http://hwottcdn.ln.chinamobile.com/34/16/20241118/280433631/index.m3u8
@@ -99,7 +116,9 @@
 仙逆-86,http://hwottcdn.ln.chinamobile.com/34/16/20250428/281351817/index.m3u8
 仙逆-87,http://hwottcdn.ln.chinamobile.com/34/16/20250505/281381593/index.m3u8
 仙逆-88,http://hwottcdn.ln.chinamobile.com/34/16/20250512/281409663/index.m3u8
-仙逆-89,http://hwottcdn.ln.chinamobile.com/34/16/20250519/281456773/index.m3u8.
+仙逆-89,http://hwottcdn.ln.chinamobile.com/34/16/20250519/281456773/index.m3u8
+仙逆-90,http://hwottcdn.ln.chinamobile.com/34/16/20250526/281505193/index.m3u8
+仙逆-91,http://hwottcdn.ln.chinamobile.com/34/16/20250602/281549203/index.m3u8
 
 灵笼,#genre#
 灵笼,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
