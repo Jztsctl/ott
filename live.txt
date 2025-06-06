@@ -51,6 +51,12 @@
 五哈-8上,http://hwottcdn.ln.chinamobile.com/34/16/20250531/281541967/index.m3u8
 五哈-8下,http://hwottcdn.ln.chinamobile.com/34/16/20250601/281537921/index.m3u8
 
+朋友请吃饭第三季,#genre#
+朋友请吃饭第三季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
+第1期上：李昀锐刚出妆就被杨迪“逮”去吃饭了,http://hwottcdn.ln.chinamobile.com/34/16/20250522/281483079/index.m3u8
+第1期下：杨迪遇综艺主持大难题惨遭蔡明狂怼,http://hwottcdn.ln.chinamobile.com/34/16/20250529/281523842/index.m3u8
+第2期上：庆余年皇子团重聚烧烤局,http://hwottcdn.ln.chinamobile.com/34/16/20250605/281579994/index.m3u8
+
 一见你就笑,#genre#
 一见你就笑,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
 一见你就笑-1,http://hwottcdn.ln.chinamobile.com/34/16/20250418/281298778/index.m3u8
