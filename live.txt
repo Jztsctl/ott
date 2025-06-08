@@ -15,12 +15,14 @@
 奔跑吧-5-250516,http://hwottcdn.ln.chinamobile.com/36/16/20250517/281449080/index.m3u8
 奔跑吧-6-250523,http://hwottcdn.ln.chinamobile.com/36/16/20250524/281496750/index.m3u8
 奔跑吧-7-250530,http://hwottcdn.ln.chinamobile.com/36/16/20250531/281535719/index.m3u8
+奔跑吧-8-250606,http://hwottcdn.ln.chinamobile.com/36/16/20250607/281591561/index.m3u8
 
 歌手2025,#genre#
 歌手2025,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
 歌手2025-1,http://hwottcdn.ln.chinamobile.com/67/16/20250517/281450227/index.m3u8
 歌手2025-2,http://hwottcdn.ln.chinamobile.com/67/16/20250523/281498188/index.m3u8
 歌手2025-3,http://hwottcdn.ln.chinamobile.com/67/16/20250530/281540209/index.m3u8
+歌手2025-4,http://hwottcdn.ln.chinamobile.com/67/16/20250606/281596315/index.m3u8
 
 天赐的声音第六季,#genre#
 天赐的声音第六季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -31,6 +33,7 @@
 天赐的声音-5,http://hwottcdn.ln.chinamobile.com/36/16/20250517/281446118/index.m3u8
 天赐的声音-6,http://hwottcdn.ln.chinamobile.com/36/16/20250524/281500009/index.m3u8
 天赐的声音-7,http://hwottcdn.ln.chinamobile.com/36/16/20250531/281538807/index.m3u8
+天赐的声音-8,http://hwottcdn.ln.chinamobile.com/36/16/20250607/281594283/index.m3u8
 
 哈哈哈哈哈第五季,#genre#
 哈哈哈哈哈第五季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -50,6 +53,7 @@
 五哈-7下,http://hwottcdn.ln.chinamobile.com/34/16/20250525/281499102/index.m3u8
 五哈-8上,http://hwottcdn.ln.chinamobile.com/34/16/20250531/281541967/index.m3u8
 五哈-8下,http://hwottcdn.ln.chinamobile.com/34/16/20250601/281537921/index.m3u8
+五哈-9上,http://hwottcdn.ln.chinamobile.com/34/16/20250607/281595249/index.m3u8
 
 朋友请吃饭第三季,#genre#
 朋友请吃饭第三季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -90,6 +94,7 @@
 遮天-109,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281428849/index.m3u8
 遮天-110,http://hwottcdn.ln.chinamobile.com/34/16/20250521/281475529/index.m3u8
 遮天-111,http://hwottcdn.ln.chinamobile.com/34/16/20250528/281516602/index.m3u8
+遮天-112,http://hwottcdn.ln.chinamobile.com/34/16/20250604/281571145/index.m3u8
 
 仙逆,#genre#
 仙逆,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -191,6 +196,7 @@
 不说话的爱 (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250516/281444347/index.m3u8
 超级望望‎ (2025),http://hwottcdn.ln.chinamobile.com/113/16/20250311/281043018/index.m3u8
 第二十条‎ (2024),http://hwottcdn.ln.chinamobile.com/88888892/16/20241218/280614516/index.m3u8
+雄狮少年2,http://hwottcdn.ln.chinamobile.com/11/16/20250530/281531052/index.m3u8
 碟中谍1 (1996),http://hwottcdn.ln.chinamobile.com/50/16/20211230/275984835/index.m3u8
 碟中谍2 (2000),http://hwottcdn.ln.chinamobile.com/50/16/20220721/276681059/index.m3u8
 碟中谍3 (2006),http://hwottcdn.ln.chinamobile.com/67/16/20241107/280365221/index.m3u8
