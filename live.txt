@@ -16,6 +16,7 @@
 奔跑吧-6-250523,http://hwottcdn.ln.chinamobile.com/36/16/20250524/281496750/index.m3u8
 奔跑吧-7-250530,http://hwottcdn.ln.chinamobile.com/36/16/20250531/281535719/index.m3u8
 奔跑吧-8-250606,http://hwottcdn.ln.chinamobile.com/36/16/20250607/281591561/index.m3u8
+奔跑吧-9-250613,http://hwottcdn.ln.chinamobile.com/36/16/20250614/281645337/index.m3u8
 
 歌手2025,#genre#
 歌手2025,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -23,6 +24,7 @@
 歌手2025-2,http://hwottcdn.ln.chinamobile.com/67/16/20250523/281498188/index.m3u8
 歌手2025-3,http://hwottcdn.ln.chinamobile.com/67/16/20250530/281540209/index.m3u8
 歌手2025-4,http://hwottcdn.ln.chinamobile.com/67/16/20250606/281596315/index.m3u8
+歌手-5,http://hwottcdn.ln.chinamobile.com/67/16/20250614/281641520/index.m3u8
 
 天赐的声音第六季,#genre#
 天赐的声音第六季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -34,6 +36,7 @@
 天赐的声音-6,http://hwottcdn.ln.chinamobile.com/36/16/20250524/281500009/index.m3u8
 天赐的声音-7,http://hwottcdn.ln.chinamobile.com/36/16/20250531/281538807/index.m3u8
 天赐的声音-8,http://hwottcdn.ln.chinamobile.com/36/16/20250607/281594283/index.m3u8
+天赐的声音-9,http://hwottcdn.ln.chinamobile.com/36/16/20250614/281641874/index.m3u8
 
 哈哈哈哈哈第五季,#genre#
 哈哈哈哈哈第五季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -55,12 +58,15 @@
 五哈-8下,http://hwottcdn.ln.chinamobile.com/34/16/20250601/281537921/index.m3u8
 五哈-9上,http://hwottcdn.ln.chinamobile.com/34/16/20250607/281595249/index.m3u8
 五哈-9下,http://hwottcdn.ln.chinamobile.com/34/16/20250608/281597574/index.m3u8
+五哈-10上,http://hwottcdn.ln.chinamobile.com/34/16/20250614/281649667/index.m3u8
+五哈-10下,http://hwottcdn.ln.chinamobile.com/34/16/20250615/281653000/index.m3u8
 
 朋友请吃饭第三季,#genre#
 朋友请吃饭第三季,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
 第1期上：李昀锐刚出妆就被杨迪“逮”去吃饭了,http://hwottcdn.ln.chinamobile.com/34/16/20250522/281483079/index.m3u8
 第1期下：杨迪遇综艺主持大难题惨遭蔡明狂怼,http://hwottcdn.ln.chinamobile.com/34/16/20250529/281523842/index.m3u8
 第2期上：庆余年皇子团重聚烧烤局,http://hwottcdn.ln.chinamobile.com/34/16/20250605/281579994/index.m3u8
+第2期下：刘端端自曝开拍被换角听呆杨迪,http://hwottcdn.ln.chinamobile.com/34/16/20250612/281632637/index.m3u8
 
 一见你就笑,#genre#
 一见你就笑,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -71,6 +77,8 @@
 一见你就笑-5,http://hwottcdn.ln.chinamobile.com/34/16/20250514/281430100/index.m3u8
 一见你就笑-6,http://hwottcdn.ln.chinamobile.com/34/16/20250521/281478372/index.m3u8
 一见你就笑-7,http://hwottcdn.ln.chinamobile.com/34/16/20250528/281516357/index.m3u8
+一见你就笑-8,http://hwottcdn.ln.chinamobile.com/34/16/20250604/281566433/index.m3u8
+一见你就笑-9,http://hwottcdn.ln.chinamobile.com/34/16/20250611/281623760/index.m3u8
 
 遮天,#genre#
 遮天,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -96,6 +104,7 @@
 遮天-110,http://hwottcdn.ln.chinamobile.com/34/16/20250521/281475529/index.m3u8
 遮天-111,http://hwottcdn.ln.chinamobile.com/34/16/20250528/281516602/index.m3u8
 遮天-112,http://hwottcdn.ln.chinamobile.com/34/16/20250604/281571145/index.m3u8
+遮天-113,http://hwottcdn.ln.chinamobile.com/34/16/20250611/281617232/index.m3u8
 
 仙逆,#genre#
 仙逆,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
@@ -131,6 +140,7 @@
 仙逆-89,http://hwottcdn.ln.chinamobile.com/34/16/20250519/281456773/index.m3u8
 仙逆-90,http://hwottcdn.ln.chinamobile.com/34/16/20250526/281505193/index.m3u8
 仙逆-91,http://hwottcdn.ln.chinamobile.com/34/16/20250602/281549203/index.m3u8
+仙逆-92,http://hwottcdn.ln.chinamobile.com/34/16/20250609/281604684/index.m3u8
 
 灵笼,#genre#
 灵笼,https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
