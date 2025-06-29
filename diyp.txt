@@ -20,7 +20,7 @@ CETV-1,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8#h
 CETV-2,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
 CETV-3,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 CETV-4,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
-1905亚洲电影,http://150.138.77.132:10037/1905电影网.php?id=1905a
+1905电影网,http://150.138.77.132:10037/1905电影网.php?id=1905a
 CHC影迷电影,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 CHC动作电影,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
 CHC家庭影院,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
