@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="9999" tvg-name="啊！！啊啊啊" tvg-logo="https://jztsctl.github.io/tvg/1905.png" group-title="测试频道",啊！！啊啊啊
+https://cdn.jsdelivr.net/gh/Jztsctl/tv/page/new.ts
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://jztsctl.github.io/tvg/CCTV-1zonghe.png" group-title="央视频道",CCTV-1综合
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226675/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://jztsctl.github.io/tvg/CCTV-2caijing.png" group-title="央视频道",CCTV-2财经
