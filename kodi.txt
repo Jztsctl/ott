@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,啊！！啊啊啊
+https://cdn.jsdelivr.net/gh/Jztsctl/tv/page/new.ts
 #EXTINF:-1 ,倩女幽魂
 https://gcore.jsdelivr.net/gh/tvgid/name/yqx/playlist.m3u8
 #EXTINF:-1 ,倩女幽魂-2-人间道
